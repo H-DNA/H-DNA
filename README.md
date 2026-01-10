@@ -5,7 +5,9 @@ I am working at Holistics. I mostly feel more inclined to the research aspect at
 
 I want to know more about these areas of computer science:
 
-- Type & language theory
+- Type & language theory (Current focus)
+- Logic & Formal system
+- Category theory
 - Concurrency theory
 - Operating systems
 - Databases
