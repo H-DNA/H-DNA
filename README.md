@@ -1,7 +1,7 @@
 [![Holistics](https://img.shields.io/badge/Working%20at-Holistics.io-4B89DC?style=flat)](https://www.holistics.io)
 [![DBX](https://img.shields.io/badge/Working%20at-DBX-000000?style=flat)](https://www.holistics.io)
 
-Currently working at Holistics. I'd want some ways to mix together the research and engineering aspects of computer. I used to think research is more suitable for me. Howevre, I found out that I do not really like chasing academic achievements. I think Holistics provides me the balance I'm searching for.
+Currently working at Holistics/DBX. I've always wanted some ways to mix together the research and engineering aspects of computer. I used to think research is more suitable for me. However, I found out that I did not really like chasing academic achievements & running on paper KPIs, so I explored other directions. I think Holistics provides me the balance I'm searching for.
 
 I want to know more about these areas of computer science:
 
