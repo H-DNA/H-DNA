@@ -1,14 +1,21 @@
+[![Holistics](https://img.shields.io/badge/Working%20at-Holistics.io-4B89DC?style=flat)](https://www.holistics.io)
+[![DBX](https://img.shields.io/badge/Working%20at-DBX-000000?style=flat)](https://www.holistics.io)
+
+I am working at Holistics. I mostly feel more inclined to the research aspect at work, but I hate chasing academic achievements, so I think Holistics is a comfortable place.
+
 I want to know more about these areas of computer science:
-* Type & language theory
-* Concurrency theory
-* Operating systems
-* Databases
-* Performance
-* Engineering in general
+
+- Type & language theory
+- Concurrency theory
+- Operating systems
+- Databases
+- Performance
+- Engineering in general
 
 Wish I could connect with anyone who shares similar interests or just wants to exchange ideas. I feel like there are a lot to learn.
 
 Some related repositories:
+
 - [type-theory](https://github.com/H-DNA/type-theory): Documenting my research of type & language theory
 - [MPiSC](https://github.com/H-DNA/MPiSC): My bachelor thesis on distributed wait-free MPSC queues, which was my first dive into concurrency theory. This thesis granted me 2 modest publications (but I did not really care about academic publications). I was intrigued by the concept of progress guarantee and the many problems in this field. However, I find it pretty hard.
 
