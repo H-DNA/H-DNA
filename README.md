@@ -1,7 +1,7 @@
 [![Holistics](https://img.shields.io/badge/Working%20at-Holistics.io-4B89DC?style=flat)](https://www.holistics.io)
 [![DBX](https://img.shields.io/badge/Working%20at-DBX-000000?style=flat)](https://www.holistics.io)
 
-I am working at Holistics. I mostly feel more inclined to the research aspect at work, but I hate chasing academic achievements, so I think Holistics is a comfortable place.
+Currently working at Holistics. I'd want some ways to mix together the research and engineering aspects of computer. I used to think research is more suitable for me. Howevre, I found out that I do not really like chasing academic achievements. I think Holistics provides me the balance I'm searching for.
 
 I want to know more about these areas of computer science:
 
