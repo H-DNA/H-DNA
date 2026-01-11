@@ -19,7 +19,7 @@ Wish I could connect with anyone who shares similar interests or just wants to e
 Some related repositories:
 
 - [type-theory](https://github.com/H-DNA/type-theory): Documenting my research of type & language theory.
-- [MPiSC](https://github.com/H-DNA/MPiSC): My bachelor thesis on distributed wait-free MPSC queues, which was my first dive into concurrency theory. This thesis granted me 2 modest publications (although I did not really care about academic publications). I was intrigued by the concept of progress guarantee and the many problems in this field. However, I find it pretty hard.
+- [MPiSC](https://github.com/H-DNA/MPiSC): My bachelor thesis on distributed wait-free MPSC queues, which was my first dive into concurrency theory. I was intrigued by the concept of progress guarantee and the many problems in this field. However, I find it pretty hard.
 
 Drop me a message:
 
