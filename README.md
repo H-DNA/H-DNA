@@ -1,9 +1,9 @@
 [![Holistics](https://img.shields.io/badge/Working%20at-Holistics.io-4B89DC?style=flat)](https://www.holistics.io)
 [![DBX](https://img.shields.io/badge/Working%20at-DBX-000000?style=flat)](https://www.holistics.io)
 
-Currently working at Holistics/DBX. I've always wanted some ways to mix together the research and engineering aspects of computer.
+Currently working at Holistics/DBX.
 
-I want to learn more about these areas of computer science:
+I'm interested in these areas of computer science:
 
 - Type & language theory (Current focus)
 - Logic & Formal system
